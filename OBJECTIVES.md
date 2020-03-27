@@ -1,6 +1,7 @@
-![image Logo](./images/png/osoca_logo.png)
+# Open Security Operations Certified Analyst
+![image Logo](./images/png/osoca_certified.png)
 
-# Open Security Operations Certified Analyst - Objectives
+# Objectives
 
 ## Operating Systems Basics
 ### Microsoft Windows
