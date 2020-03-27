@@ -79,4 +79,11 @@
 ## Core Concepts
 - MITRE ATT&CK
 - NIST Cybersecurity Framework
+- NIST Technical Guide to Information Security Testing and Assessment SP-800-115
+
+## Core Tools
+- NMAP
+- Snort
+- SysInternals
+- Wireshark
 
