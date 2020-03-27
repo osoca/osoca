@@ -8,5 +8,5 @@ There are many cybersecurity certifications on the market but most of them are t
 
 ## Solution
 
-Create an open source, peer reviewed certification that allows candidates to attain an entry level certification and prove cybersecurity technical competence. 
+Create an open source, peer reviewed certification that allows candidates to attain an entry level certification and prove cybersecurity technical competence for free. 
 
