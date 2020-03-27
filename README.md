@@ -1,6 +1,6 @@
 # Open Security Operations Certified Analyst
 
-![image Logo](./images/png/osoca_logo.png)
+![image Logo](./images/png/osoca_certified.png)
 
 ## Problem
 
