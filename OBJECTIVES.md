@@ -65,9 +65,18 @@
 - Account Creation
 - Rootkits
 
+#### Goals
+- Credential Theft
+- Data Exfiltration
+- Pivoting
+
 ## Incident Response
+  - Evidence collection
 ### Microsoft Windows
 ### Linux
 ### Log Analysis
 
+## Core Concepts
+- MITRE ATT&CK
+- NIST Cybersecurity Framework
 
