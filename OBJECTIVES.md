@@ -72,6 +72,13 @@
 
 ## Incident Response
   - Evidence collection
+    - IP Address
+    - Network Connections
+    - Users
+    - Memory
+    - Registry
+    - Configuration 
+    
 ### Microsoft Windows
 ### Linux
 ### Log Analysis
