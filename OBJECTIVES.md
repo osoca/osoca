@@ -78,18 +78,21 @@
     - Memory
     - Registry
     - Configuration 
-    
+
 ### Microsoft Windows
 ### Linux
 ### Log Analysis
 
 ## Core Concepts
-- MITRE ATT&CK
-- NIST Cybersecurity Framework
-- NIST Technical Guide to Information Security Testing and Assessment SP-800-115
+- [MITRE ATT&CK](https://attack.mitre.org)
+- [NIST Cybersecurity Framework](./docs/NIST.CSWP.04162018.pdf)
+- NIST SP 800-27 Risk Management Framework for Information Systems and Organizations
+- NIST SP 800-53 Security and Privacy Controls for Federal Information Systems and Organizations 
+- NIST SP 800-115 Technical Guide to Information Security Testing and Assessment SP-800-115
 
 ## Core Tools
 - NMAP
+- SEIM
 - Snort
 - SysInternals
 - Wireshark
