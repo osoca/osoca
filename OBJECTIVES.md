@@ -5,7 +5,15 @@
 
 ## Operating Systems Basics
 ### Microsoft Windows
+- Administration
+- Networking
+- Permissions
+- Server Basics
+
 ### Linux
+- Administration
+- Networking
+- Permissions
 
 ## Networking
 ### DoD Model
