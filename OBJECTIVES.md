@@ -55,8 +55,11 @@
 
 ## Penetration Testing
 
+### Scoping
+
 
 ### Phases of Intrusion
+ 
 
 #### Recon
 - Passive Recon
@@ -77,6 +80,11 @@
 - Credential Theft
 - Data Exfiltration
 - Pivoting
+
+### Report
+- Reporting Basics
+- Findings
+- Recommendations
 
 ## Incident Response
   - Evidence collection
