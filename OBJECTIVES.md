@@ -85,10 +85,10 @@
 
 ## Core Concepts
 - [MITRE ATT&CK](https://attack.mitre.org)
-- [NIST Cybersecurity Framework](./docs/NIST.CSWP.04162018.pdf)
-- NIST SP 800-27 Risk Management Framework for Information Systems and Organizations
-- NIST SP 800-53 Security and Privacy Controls for Federal Information Systems and Organizations 
-- NIST SP 800-115 Technical Guide to Information Security Testing and Assessment SP-800-115
+- [NIST Cybersecurity Framework](docs/NIST.CSWP.04162018.pdf)
+- [NIST SP 800-37 Risk Management Framework for Information Systems and Organizations](docs/NIST.SP.800-37r2.pdf)
+- [NIST SP 800-53 Security and Privacy Controls for Federal Information Systems and Organizations](docs/NIST.SP.800-53r4.pdf)
+- [NIST SP 800-115 Technical Guide to Information Security Testing and Assessment SP-800-115](docs/nistspecialpublication800-115.pdf)
 
 ## Core Tools
 - NMAP
