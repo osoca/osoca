@@ -88,7 +88,9 @@
     - Configuration 
 
 ### Microsoft Windows
+  - Event logs
 ### Linux
+  - Event logs
 ### Log Analysis
 
 ## Core Concepts
@@ -99,9 +101,9 @@
 - [NIST SP 800-115 Technical Guide to Information Security Testing and Assessment SP-800-115](docs/nistspecialpublication800-115.pdf)
 
 ## Core Tools
-- NMAP
+- [NMAP](https://www.nmap.org)
 - SEIM
-- Snort
-- SysInternals
-- Wireshark
+- [Snort](https://www.snort.org)
+- [SysInternals](https://docs.microsoft.com/en-us/sysinternals/)
+- [Wireshark](https://www.wireshark.org/)
 
